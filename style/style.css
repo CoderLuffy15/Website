@@ -1,0 +1,170 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:5%
+}
+.rajimg{
+  margin-top: 80px;
+}
+
+.rajtext{
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.skill{
+  font-size: 40px;
+  color:#11999E;
+  margin-top:60px;
+  margin-bottom: 150px;
+}
+
+
+.Top{
+  background-color: #C9F4F8;
+  padding-top: 100px;
+  position: relative;
+}
+
+.Middle{
+  background-color: #FBF8F1;
+}
+
+.midheading{
+  font-size: 25px;
+  color:#11999E;
+
+}
+
+.middlefont{
+  font-size: 40px;
+  color:#11999E;
+}
+
+.middleimg{
+  width: 25%;
+  float: left;
+  margin-right: 60px;
+}
+
+
+.middleimg1{
+  width: 25%;
+  float: right;
+  margin-left: 60px;
+}
+
+
+
+.skill1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill2{
+    width: 50%;
+    margin: 200px auto 100px auto;
+    text-align: left;
+}
+
+
+.middleline{
+  margin-top: 150px;
+}
+
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin-top: 180px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.26rem;
+  color: #66BFBF;
+
+}
+
+h2{
+
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+span{
+  text-decoration: underline;
+}
+
+.downcloud{
+  position: absolute;
+  left:250px;
+}
+
+.topcloud{
+  position: absolute;
+  right:400px;
+  top:50px;
+}
+
+.mountain{
+  margin-top: 100px;
+}
+
+.getin{
+  font-size: 40px;
+  color:#66BFBF;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+
+.lovecode{
+  color:#59B4BB;
+  margin-bottom: 60px;
+}
+
+.button{
+  background-color: #66BFBF;
+  padding: 15px 25px 15px 25px;
+  font-size: 25px;
+  border: none;
+  color:white;
+  font-family: 'Montserrat', serif;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+.button:hover{
+  background-color: #15828B;
+  padding: 15px 25px 15px 25px;
+  font-size: 25px;
+  border: none;
+  color:white;
+  font-family: 'Montserrat', serif;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+
+.Bottom{
+  background-color: #C9F4F8;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+a{
+  color: #00A2AE;
+  font-family: 'Montserrat', serif;
+  margin:10px 30px 30px;
+  text-decoration: none;
+}
+.copy{
+  font-family: 'Montserrat', serif;
+  padding-top: 30px;
+  color: black;
+}
